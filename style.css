@@ -1,0 +1,41 @@
+
+body {
+    background-color: #04022a;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    border: 3px solid #8300bb;
+    color: #8300bb;
+    background-color: #fce3e5;
+    font-size: 60px;
+}
+
+div {
+    margin-left: 800px;
+    margin-top: 50px;
+}
+
+img {
+    width: 500px;
+    height: 200px;
+    margin-left: 710px;
+    display: none;
+}
+
+span {
+    display: inline-block;
+    color: #fce3e5;
+    font-size: 100px;
+    margin-left: 760px;
+    margin-top: 60px;
+    -webkit-text-stroke: 2px #8300bb;
+}
+
+label {
+    font-size: 150px;
+    color: #fce3e5;
+    -webkit-text-stroke: 2px #8300bb;
+    margin-left: 400px;
+}
